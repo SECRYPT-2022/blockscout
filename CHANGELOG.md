@@ -15,6 +15,7 @@
 
 ### Fixes
 
+- [#8431](https://github.com/blockscout/blockscout/pull/8431) - Fix contracts' output decoding
 - [#8354](https://github.com/blockscout/blockscout/pull/8354) - Hotfix for proper addresses' tokens displaying
 - [#8350](https://github.com/blockscout/blockscout/pull/8350) - Add Base Mainnet support for tx actions
 - [#8282](https://github.com/blockscout/blockscout/pull/8282) - NFT fetcher improvements
@@ -26,6 +27,7 @@
 
 ### Chore
 
+- [#8442](https://github.com/blockscout/blockscout/pull/8442) - Unify burn address definition
 - [#8321](https://github.com/blockscout/blockscout/pull/8321) - Add curl into resulting Docker image
 - [#8319](https://github.com/blockscout/blockscout/pull/8319) - Add MIX_ENV: 'prod' to docker-compose
 - [#8281](https://github.com/blockscout/blockscout/pull/8281) - Planned removal of duplicate API endpoints: for CSV export and GraphQL
