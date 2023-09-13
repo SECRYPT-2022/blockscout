@@ -15,6 +15,7 @@
 
 ### Fixes
 
+- [#8446](https://github.com/blockscout/blockscout/pull/8446) - Fix market cap calculation in case of CMC
 - [#8431](https://github.com/blockscout/blockscout/pull/8431) - Fix contracts' output decoding
 - [#8354](https://github.com/blockscout/blockscout/pull/8354) - Hotfix for proper addresses' tokens displaying
 - [#8350](https://github.com/blockscout/blockscout/pull/8350) - Add Base Mainnet support for tx actions
@@ -24,6 +25,7 @@
 - [#8240](https://github.com/blockscout/blockscout/pull/8240) - Refactor and fix paging params in API v2
 - [#8242](https://github.com/blockscout/blockscout/pull/8242) - Fixing visualizer service CORS issue when running docker-compose
 - [#8355](https://github.com/blockscout/blockscout/pull/8355) - Fix current token balances redefining
+- [#8338](https://github.com/blockscout/blockscout/pull/8338) - Fix reorgs query
 
 ### Chore
 
